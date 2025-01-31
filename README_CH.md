@@ -91,7 +91,7 @@ Ext7 是一套适用于 Windows 7 的 API 扩展，可让一些 Windows 8、8.1 
 
 **问：我需要安装特定的更新吗？**
 
-**答**：没有任何更新的 Windows 7 用户仍可使用它，但许多程序需要安装 Services Pack 1、KB2533623（DllDirectories 更新）和 KB2670838（平台更新）才能运行。最好安装这些更新。
+**答**：没有任何更新的 Windows 7 用户仍可使用它，但许多程序需要安装 Service Pack 1、KB2533623（DllDirectories 更新）和 KB2670838（平台更新）才能运行。最好安装这些更新。
 
 **问：如果我安装了 ESU（扩展安全更新），我可以使用 Ext7 吗？**
 
