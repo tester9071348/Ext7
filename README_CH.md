@@ -30,6 +30,7 @@ Ext7 是一套适用于 Windows 7 的 API 扩展，可让一些 Windows 8、8.1 
 
 **答**：兼容的应用程序包括但不限于：
 
+- Anki
 - Bespoke Synth
 - Blender
 - Blockbench
@@ -37,16 +38,21 @@ Ext7 是一套适用于 Windows 7 的 API 扩展，可让一些 Windows 8、8.1 
 - Chromium (including Ungoogled Chromium)
 - Citra
 - Commander Wars
+- CopyQ
 - Cygwin
 - Dasel
 - Discord Canary
 - ElectronMail
 - Firefox
-- GIMP (3.0.0-RC2)
+- FlareSolverr
+- GIMP
 - GitHub Desktop
 - HandBrake
+- Kate
 - Kodi
-- Life is Strange: True Colors 4.25
+- Life is Strange: True Colors
+- Listary
+- Miru
 - MKVToolNix
 - MongoDB
 - MPC-Qt
@@ -58,17 +64,22 @@ Ext7 是一套适用于 Windows 7 的 API 扩展，可让一些 Windows 8、8.1 
 - qBittorrent
 - QMMP
 - Qt Creator
+- RedNotebook
 - Rufus
 - Steel Bank Common Lisp
+- Signal
 - SpaceEngine
 - Spotify
+- StaxRip
 - Steinberg SpectraLayers
 - TeamTalk
 - Universe Sandbox
 - VSCode and VSCodium
+- Webcord
 - WinDbg (classic from Windows 11 SDK, and preview)
 - Yuzu (gameplay was not tested)
 - Zig
+- Zoner Photo Studio
 
 如需获取更多信息，请参阅与 Ext7 一起安装的**Application Compatibility List.docx**文件。
 
