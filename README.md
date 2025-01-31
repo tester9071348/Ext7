@@ -63,6 +63,7 @@ FAQ
 - osu!lazer
 - Python
 - qBittorrent
+- QEMU
 - QMMP
 - Qt Creator
 - RedNotebook
