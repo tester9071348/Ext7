@@ -1,3 +1,6 @@
+VERSION 1.1.2.1438
+    - Fixed a bug where Thunderbird could not start.
+
 VERSION 1.1.2.1437
     - Added support for latest Chromium version.
 
