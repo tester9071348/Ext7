@@ -42,7 +42,7 @@ FAQ
 - CopyQ
 - Cygwin
 - Dasel
-- Discord Canary
+- Discord
 - ElectronMail
 - Firefox
 - FlareSolverr
