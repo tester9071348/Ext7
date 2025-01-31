@@ -5,7 +5,7 @@ Ext7 is a set of API extensions for Windows 7 that allow some Windows 8, 8.1 and
 
 To download and install, see the [releases page](https://github.com/tester9071348/Ext7/releases).
 
-**Uninstalling the following softwares before installing is recommended.**
+**Uninstalling the following softwares before installing is recommended:**
 
 - **0patch Agent**
 It might cause Chromium-based browsers and JetBrains IDEs to crash after enabling Ext7 and running it.
