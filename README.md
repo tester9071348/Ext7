@@ -8,9 +8,11 @@ To download and install, see the [releases page](https://github.com/tester907134
 **Uninstalling the following softwares before installing is recommended.**
 
 - **0patch Agent**
+<br>
 It might cause Chromium-based browsers and JetBrains IDEs to crash after enabling Ext7 and running it.
 
 - **MacType**
+<br>
 It might cause all programs to fail to start after enabling Ext7
 
 After installation, usage is easy. Here are the ways to enable Ext7:
