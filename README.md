@@ -49,6 +49,7 @@ FAQ
 - GIMP
 - GitHub Desktop
 - HandBrake
+- Kate
 - Kodi
 - Life is Strange: True Colors
 - Listary
