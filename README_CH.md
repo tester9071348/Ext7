@@ -101,7 +101,7 @@ Ext7 是一套适用于 Windows 7 的 API 扩展，可让一些 Windows 8、8.1 
 
 **答**：目前，Ext7 只适用于 Windows 7。如果您使用的是 Windows 8 或 8.1，Ext7 将毫无用处。
 
-**问：升级到 Windows 8/8.1/10/11 后可以删除 VxKex 或 VxKex NEXT 或 Ext7 吗？**
+**问：升级到 Windows 8/8.1/10/11 后可以删除 VxKex 或 Ext7 吗？**
 
 **答**：可以。如果 VxKex 已安装，请将其更新为 Ext7，然后从控制面板卸载它。
 
