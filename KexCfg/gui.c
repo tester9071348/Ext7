@@ -969,7 +969,8 @@ STATIC INT_PTR CALLBACK DialogProc(
 
 			ShowPropertiesDialog(
 				GetProgramFullPathFromListViewIndex(ItemIndex),
-				SW_SHOWDEFAULT);
+				SW_SHOWDEFAULT,
+				FALSE);
 		} else {
 			return FALSE;
 		}
