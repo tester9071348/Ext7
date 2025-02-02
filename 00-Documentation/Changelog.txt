@@ -1,5 +1,12 @@
 VERSION 1.1.2.1438
-    - .
+    - Fixed a bug which caused Thunderbird and Betterbird to crash.
+
+    - Improved LibreWolf stability.
+
+    - Fixed a bug where Qt6 applications would not scale properly on High-
+      DPI screens.
+
+    - Logging is now disabled by default to reduce disk space usage.
 
 VERSION 1.1.2.1437
     - Added support for latest Chromium version.
